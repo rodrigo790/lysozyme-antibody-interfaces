@@ -6,7 +6,7 @@ Compare D1.3, HyHEL-5 and D44.1 using crystallographic complexes 1VFB, 1YQV and 
 
 ## Results
 
-At 4.0 Å, D1.3 contacted **15** antigen residues, HyHEL-5 **14** and D44.1 **16**. HyHEL-5 and D44.1 shared **12** residues, with Jaccard **0.667**. D1.3 did not overlap with either at this threshold. See [contact counts](results/counts.csv), [residue pairs](results/residue_pairs.csv) and [cutoff sensitivity](results/overlap.csv). Open the downloaded [interactive viewer](results/viewer.html) or run `pymol results/view.pml` after downloading the inputs.
+At 4.0 Å, D1.3 contacted **15** antigen residues, HyHEL-5 **14** and D44.1 **16**. HyHEL-5 and D44.1 shared **12** residues, with Jaccard **0.667**. Both pairings involving D1.3 had Jaccard **0.0** at this threshold. See [contact counts](results/counts.csv), [residue pairs](results/residue_pairs.csv) and [cutoff sensitivity](results/overlap.csv). Open the downloaded [interactive viewer](results/viewer.html) or run `pymol results/view.pml` after downloading the inputs.
 
 ![Lysozyme antibody interfaces results](results/footprints.png)
 
