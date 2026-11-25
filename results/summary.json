@@ -1,0 +1,14 @@
+{
+  "complexes": 3,
+  "lysozyme_residues": 129,
+  "residues_at_4A": {
+    "1VFB": 15,
+    "1YQV": 14,
+    "1MLC": 16
+  },
+  "jaccard_at_4A": {
+    "1VFB\u20131YQV": 0.0,
+    "1VFB\u20131MLC": 0.0,
+    "1YQV\u20131MLC": 0.667
+  }
+}

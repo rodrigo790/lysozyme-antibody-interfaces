@@ -1,0 +1,20 @@
+{
+  "1vfb.pdb": {
+    "url": "https://files.rcsb.org/download/1VFB.pdb",
+    "sha256": "e95e6f68eb94395d3967723203c231006f10647c17e9cccd402cc936cffc788b",
+    "bytes": 316629,
+    "observed_date": "2026-11-25"
+  },
+  "1yqv.pdb": {
+    "url": "https://files.rcsb.org/download/1YQV.pdb",
+    "sha256": "22e207ea93045efe1d1b294120972057ba88721fdf7248fbe8ad03bd4a146557",
+    "bytes": 431244,
+    "observed_date": "2026-11-25"
+  },
+  "1mlc.pdb": {
+    "url": "https://files.rcsb.org/download/1MLC.pdb",
+    "sha256": "f905b2aeb97d8619f5a6f7a284faa3f91b334af9d2d07ecc877812f35c26c6f7",
+    "bytes": 771039,
+    "observed_date": "2026-11-25"
+  }
+}

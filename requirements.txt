@@ -1,0 +1,6 @@
+pandas==3.0.1
+matplotlib==3.10.9
+requests==2.32.5
+biopython==1.88
+scipy==1.17.1
+py3Dmol==3.0.0
